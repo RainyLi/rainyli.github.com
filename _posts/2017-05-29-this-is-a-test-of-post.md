@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "this is a test of post"
-description: ""
-category: 
+title: "test post"
+description: "this is a test of post"
+category: [test, test]
 tags: [test]
 ---
 {% include JB/setup %}
+i am the content
